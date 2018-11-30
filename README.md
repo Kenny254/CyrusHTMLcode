@@ -18,4 +18,6 @@ b.)Others
 Bootstrap - Is an improved styling framework that make the site fully responsive for all screen sizes.
 Java Script - For animations and google CDN services for icon. 
 
+ Your site is published at https://kenny254.github.io/CyrusHTMLcode/
+
 REF: WWW.W3SCHOOL.COM
